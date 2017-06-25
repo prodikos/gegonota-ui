@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-You can now see the interface on [http://127.0.0.1:8080](http://127.0.0.1:8080)
+You can now see the interface on [http://127.0.0.1:3000](http://127.0.0.1:3000)
